@@ -1,7 +1,19 @@
 # hex-token
 Generate hex digit token based on the current time.
 
-# using
+# installing
+Add to Gemfile
+```
+gem 'hex-token'
+```
+
+and run 
+
+```
+bundle
+```
+
+# using 
 
 ```
 class User
